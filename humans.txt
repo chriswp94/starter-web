@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Christiaan Theron	tchristiaan@yahoo.com ctheron
     <name> -- <role> -- <twitter>
 
 # THANKS
