@@ -8,8 +8,10 @@ This repository is for showing how Git and GitHub work and different parts
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Added purpose. Sample website with plenty of files for demos
 
 ## Deployement
+
+This is a simple web project.
 
 ## How to contribute
